@@ -12,7 +12,7 @@ This research project introduces a self-supervised learning framework tailored f
 * **Global-Local Modules:** Different levels of image information are utilized to improve overall classification performance, capturing both global context and local details.
 * **Cross-View Prediction:** We introduce cross-view prediction strategy to learn the relationship between global and local features.
 
-| method | epochs | batch-size | COCO 2014 mAP | pretrain dataset | url |
+| method | epochs | batch-size | COCO mAP | pretrain dataset | url |
 |-------------------|-------------------|---------------------|--------------------|--------------------|--------------------|
 | GOLANG | 400 | 128 | 62.4 | COCO 2014 | [model](https://drive.google.com/file/d/19wAtgdgNnuL8On1VW90cov6CcSnBtK-e/view?usp=sharing) |
 | GOLANG | 400 | 128 | 65.1 | COCO 2017 | [model](https://drive.google.com/file/d/1YxnzfgIH6ddhBTo3to2rDw3aQx0YNytH/view?usp=sharing) |
