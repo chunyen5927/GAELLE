@@ -56,9 +56,10 @@ python -m torch.distributed.launch --nproc_per_node=2 main_swav.py \
 
 ## Datasets & Downstream Tasks
 
-Thanks to the SSPRL research team for generously sharing their code for preparing datasets and doing evaluation. We encourage all users interested in replicating or building upon our research to visit the SSPRL research team's repository and follow their comprehensive guidelines.
+Thanks to the SSPRL research team for generously sharing their code for preparing datasets and doing evaluation. We encourage all users interested in replicating or building upon our research to visit the SSPRL research team's repository and follow their comprehensive guidelines. 👏
 
-* [SSPRL](https://github.com/WesleyHsieh0806/SS-PRL)
+* 🚀 [SSPRL](https://github.com/WesleyHsieh0806/SS-PRL) 
+
 
 ## Acknowledgements
 We would like to express our heartfelt gratitude to the Facebook AI Research team for their outstanding contributions to the field of self-supervised learning. Their groundbreaking work [SwAV](https://github.com/facebookresearch/swav)
