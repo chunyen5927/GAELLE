@@ -63,4 +63,5 @@ Thanks to the SSPRL research team for generously sharing their code for preparin
 
 ## Acknowledgements
 We would like to express our heartfelt gratitude to the Facebook AI Research team for their outstanding contributions to the field of self-supervised learning. Their groundbreaking work [SwAV](https://github.com/facebookresearch/swav)
+
 Additionally, we extend our appreciation to Hsieh et al. for their exceptional work on [SSPRL](https://github.com/WesleyHsieh0806/SS-PRL)
