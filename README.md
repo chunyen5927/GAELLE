@@ -50,7 +50,7 @@ python -m torch.distributed.launch --nproc_per_node=2 main_swav.py \
 --freeze_prototypes_niters 5005 \
 --queue_length 3840 \
 --local_queue_length 0 \
---nmb_groups_heads 1 \
+--nmb_groups_heads 4 \
 --epoch_queue_starts 7
 ```
 
