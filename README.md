@@ -19,9 +19,9 @@ This research project introduces a self-supervised learning framework tailored f
 
 
 ## Table of Contents
-- [Requirements](##requirements)
-- [Usage](##usage)
-- [Datasets & Downstream Tasks](##datasets-&-downstream-tasks)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Datasets & Downstream Tasks](#datasets--downstream-tasks)
 
 ## Requirements
 - Python 3.8
