@@ -35,7 +35,7 @@ This research project introduces a self-supervised learning framework tailored f
 
 To train the model on a single node with 2 gpus for 400 epochs:
 ```bash
-python -m torch.distributed.launch --nproc_per_node=2 main_swav.py \
+python -m torch.distributed.launch --nproc_per_node=2 main.py \
 --data_path /path/to/coco/tmp_root \
 --epochs 400 \
 --base_lr 0.6 \
