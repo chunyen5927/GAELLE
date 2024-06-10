@@ -3,7 +3,7 @@
 Welcome to the repository for our paper titled **Self-Supervised Multi-Label Classification with Global Context and Local Attention** accepted at the **ACM International Conference on Multimedia Retrieval (ICMR) 2024**. This repo provides a PyTorch implementation and pretrained models for [GAELLE](https://dl.acm.org/doi/10.1145/3652583.3658026) 📚
 
 <div align="center">
-  <img width="100%" alt="golang architecture" src="golang_architecture.png">
+  <img width="100%" alt="gaelle architecture" src="gaelle_architecture.png">
 </div>
 
 This research project introduces a self-supervised learning framework tailored for multi-label classification. The framework includes three key ideas to enhance classification performance:
