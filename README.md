@@ -1,6 +1,6 @@
-# From Whole to Parts: Integrating Global Context and Local Attention for Self-Supervised Multi-Label Classification
+# Self-Supervised Multi-Label Classification with Global Context and Local Attention
 
-This repo provides a PyTorch implementation and pretrained models for [GOLANG](https://etds.lib.ntnu.edu.tw/thesis/detail/4872aea7b7f5bb72952ea67492c9b340/) 📚
+Welcome to the repository for our paper titled **Self-Supervised Multi-Label Classification with Global Context and Local Attention** accepted at the **ACM International Conference on Multimedia Retrieval (ICMR) 2024**. This repo provides a PyTorch implementation and pretrained models for [GAELLE](https://dl.acm.org/doi/10.1145/3652583.3658026) 📚
 
 <div align="center">
   <img width="100%" alt="golang architecture" src="golang_architecture.png">
@@ -14,8 +14,8 @@ This research project introduces a self-supervised learning framework tailored f
 
 | method | epochs | batch-size | COCO mAP | pretrain dataset | url |
 |-------------------|-------------------|---------------------|--------------------|--------------------|--------------------|
-| GOLANG | 400 | 128 | 62.4 | COCO 2014 | [model](https://drive.google.com/file/d/19wAtgdgNnuL8On1VW90cov6CcSnBtK-e/view?usp=sharing) |
-| GOLANG | 400 | 128 | 65.1 | COCO 2017 | [model](https://drive.google.com/file/d/1YxnzfgIH6ddhBTo3to2rDw3aQx0YNytH/view?usp=sharing) |
+| GAELLE | 400 | 128 | 62.4 | COCO 2014 | [model](https://drive.google.com/file/d/19wAtgdgNnuL8On1VW90cov6CcSnBtK-e/view?usp=sharing) |
+| GAELLE | 400 | 128 | 65.1 | COCO 2017 | [model](https://drive.google.com/file/d/1YxnzfgIH6ddhBTo3to2rDw3aQx0YNytH/view?usp=sharing) |
 
 
 ## Table of Contents
